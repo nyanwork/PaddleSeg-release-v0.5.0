@@ -1,0 +1,1 @@
+# PaddleSeg-release-v0.5.0
